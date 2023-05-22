@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{5DF1EC88-6D7E-4952-AD5E-F3F6DE665408}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{737374AB-1A49-4AA3-A5FB-E96113CAE5BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{737374AB-1A49-4AA3-A5FB-E96113CAE5BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{6376924A-1929-47EF-83D3-FBFC6AAEE113}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +19,17 @@ Global
 		{737374AB-1A49-4AA3-A5FB-E96113CAE5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{737374AB-1A49-4AA3-A5FB-E96113CAE5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{737374AB-1A49-4AA3-A5FB-E96113CAE5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6376924A-1929-47EF-83D3-FBFC6AAEE113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6376924A-1929-47EF-83D3-FBFC6AAEE113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6376924A-1929-47EF-83D3-FBFC6AAEE113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6376924A-1929-47EF-83D3-FBFC6AAEE113}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{737374AB-1A49-4AA3-A5FB-E96113CAE5BC} = {5DF1EC88-6D7E-4952-AD5E-F3F6DE665408}
+		{6376924A-1929-47EF-83D3-FBFC6AAEE113} = {5DF1EC88-6D7E-4952-AD5E-F3F6DE665408}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7635BFF4-624F-439C-94F9-E5F963661135}
